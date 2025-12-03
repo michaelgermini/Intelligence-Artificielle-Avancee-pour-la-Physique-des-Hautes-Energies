@@ -8,6 +8,8 @@
 
 Ce livre est conçu comme une ressource complète pour les chercheurs et ingénieurs travaillant à l'intersection de l'intelligence artificielle et de la physique des hautes énergies. Il couvre les techniques avancées de compression de modèles deep learning, les réseaux de tenseurs, et leur déploiement sur hardware spécialisé (FPGA).
 
+**Repository GitHub** : [https://github.com/michaelgermini/Intelligence-Artificielle-Avancee-pour-la-Physique-des-Hautes-Energies](https://github.com/michaelgermini/Intelligence-Artificielle-Avancee-pour-la-Physique-des-Hautes-Energies)
+
 ### Public Cible
 - Physiciens souhaitant maîtriser les techniques d'IA modernes
 - Informaticiens s'intéressant aux applications scientifiques
